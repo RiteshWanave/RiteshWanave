@@ -80,47 +80,6 @@ const ritesh = {
 
 ---
 
-## 🚀 What I've Shipped
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 Siemens — React Web Framework
-> *JavaScript · ReactJS · Storybook · Cucumber · Docker*
-
-- 🧩 Built reusable UI component library used across Siemens web apps
-- ⚡ Cut **Storybook HMR time by 50%** via Webpack optimisation
-- ♿ Implemented a11y tests with Cucumber + WCAG compliance
-- 🐧 Migrated dev environment Windows → Linux for better stability
-- 📦 Upgraded Monaco Editor & Storybook ecosystem
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Siemens — TCx & Admin Console
-> *Python · Ansible · Terraform · AWS · GitLab*
-
-- 🏗️ Automated infra provisioning with Terraform + Ansible
-- λ Built AWS Lambda + Boto3 serverless utilities
-- 🔐 Integrated HashiCorp Vault for secrets management
-- 🔄 Set up secure CI/CD with GitLab + Ansible Tower
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔨 Siemens — Bazel Build for Teamcenter
-> *Python · Bazel · GitLab*
-
-- 🏎️ Reduced **kit copy time by 60%**
-- 🔁 Automated Bazel file generation across C / C++ / Java / JS
-- 📐 Standardised reproducible builds at scale
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎓 College Projects
 > *Full Stack · MERN · Heroku · Railway*
 
