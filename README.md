@@ -78,20 +78,6 @@ const ritesh = {
 
 </div>
 
----
-
-### 🎓 College Projects
-> *Full Stack · MERN · Heroku · Railway*
-
-- 📋 **Events Manager** — Multi-club event platform on college server
-- 🔍 **Doc Verification** — College-funded student record verification system with auto document generation
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,31 +90,6 @@ const ritesh = {
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-🥉 **3rd Place** — Sahaj Hackathon 2K23 by Sahaj Softwares &nbsp;|&nbsp; ☁️ **AWS Cloud Practitioner** (In Progress)
-
-</div>
-
----
-
-## 🎯 Competitive Programming
-
-<div align="center">
-
-| Platform | Rating / Stats |
-|----------|---------------|
-| 🍴 **CodeChef** | ⭐⭐⭐ 3 Stars · Highest Rating **1681** |
-| ⚡ **LeetCode** | **150+** Problems Solved |
-| 💙 **Codeforces** | Highest Rating **1142** |
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
