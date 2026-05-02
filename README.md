@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=I+build+things+that+live+on+the+internet+%F0%9F%8C%90;React+%E2%9A%A1+Node.js+%E2%9A%A1+AWS+%E2%9A%A1+DevOps;60%25+faster+builds%2C+50%25+faster+HMR+%F0%9F%9A%80;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Hackathon+Winner+%F0%9F%8F%86;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=I+build+things+that+live+on+the+internet+%F0%9F%8C%90;React+%E2%9A%A1+Node.js+%E2%9A%A1+AWS+%E2%9A%A1+DevOps;Full+Stack+Engineer+%40+Siemens+DISW;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,6 +39,16 @@ const ritesh = {
   lookingFor  : "Challenging problems, great teams, and strong coffee ☕",
 };
 ```
+
+---
+
+## 🐧 I Use Linux, btw
+
+<!-- Save the SVG below as linux-distros.svg in your repo root and commit it -->
+
+<div align="center">
+<img src="./linux-distros.svg" alt="Linux distro ASCII art animation" width="100%"/>
+</div>
 
 ---
 
@@ -78,6 +88,8 @@ const ritesh = {
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,6 +102,7 @@ const ritesh = {
 
 </div>
 
+---
 
 ## 🐍 Contribution Snake
 
