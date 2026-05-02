@@ -94,7 +94,7 @@ const ritesh = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/riteshwanave/riteshwanave/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/riteshwanave/riteshwanave/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 > *To enable the snake, create a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) — takes 2 minutes!*
