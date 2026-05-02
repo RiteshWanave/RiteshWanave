@@ -36,12 +36,6 @@ const ritesh = {
   role        : "Full Stack Software Engineer @ Siemens DISW",
   location    : "Pune, India 🇮🇳",
   education   : "B.Tech IT — Walchand College of Engineering (CGPA: 9.17 🎓)",
-  currentWork : [
-    "React-based Web Framework for Siemens web apps",
-    "Cloud deployment platform on AWS (Lambda + Boto3)",
-    "Bazel build system for Teamcenter (C / C++ / Java / JS)",
-  ],
-  funFact     : "I reduced build times by 60% and HMR by 50% — I'm basically a compiler whisperer 🧙‍♂️",
   lookingFor  : "Challenging problems, great teams, and strong coffee ☕",
 };
 ```
