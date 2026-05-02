@@ -47,7 +47,7 @@ const ritesh = {
 <!-- Save the SVG below as linux-distros.svg in your repo root and commit it -->
 
 <div align="center">
-<img src="./linux-distros.svg" alt="Linux distro ASCII art animation" width="100%"/>
+<img src="./output/linux-distros.svg" alt="Linux distro ASCII art animation" width="100%"/>
 </div>
 
 ---
